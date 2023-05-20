@@ -7,3 +7,7 @@
 
 ### HPC 2A OP:
 ![Uploading Screenshot (57).png…]()
+
+## HPC 2B OP:
+![Screenshot (58)](https://github.com/dipakjagtap29/hd/assets/69413168/a612b950-78d3-4bd9-9651-3ea0a0eac828)
+

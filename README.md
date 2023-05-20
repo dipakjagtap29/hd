@@ -12,3 +12,6 @@
 ## HPC 2B OP:
 ![Screenshot (58)](https://github.com/dipakjagtap29/hd/assets/69413168/a612b950-78d3-4bd9-9651-3ea0a0eac828)
 
+## HPC 3 OP:
+![Screenshot (59)](https://github.com/dipakjagtap29/hd/assets/69413168/b3cb8900-af68-4e53-9bb6-df254f781649)
+

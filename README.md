@@ -15,7 +15,11 @@
 ## HPC 3 OP:
 ![Screenshot (59)](https://github.com/dipakjagtap29/hd/assets/69413168/b3cb8900-af68-4e53-9bb6-df254f781649)
 
-## HPC 4A:
+## HPC 4A OP:
 ![Screenshot (60)](https://github.com/dipakjagtap29/hd/assets/69413168/b4fc9491-11a0-4434-b767-56a6928d4682)
+
+## HPC 4B OP:
+![Screenshot (61)](https://github.com/dipakjagtap29/hd/assets/69413168/21f8b232-4a06-42e8-92eb-c22e96e2b90a)
+
 
 

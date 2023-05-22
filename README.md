@@ -19,7 +19,8 @@
 ![Screenshot (60)](https://github.com/dipakjagtap29/hd/assets/69413168/b4fc9491-11a0-4434-b767-56a6928d4682)
 
 ## HPC 4B OP:
-![Screenshot (61)](https://github.com/dipakjagtap29/hd/assets/69413168/21f8b232-4a06-42e8-92eb-c22e96e2b90a)
+![Screenshot (62)](https://github.com/hd840/hd/assets/69413168/48568e39-ac48-4ed0-bfdc-2798d2e219b5)
+
 
 
 

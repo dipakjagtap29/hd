@@ -37,11 +37,13 @@ void dfs(int node) {
 int main() {
     
     int n, m, start_node;
+    cout<<"Enter n,m,Start_node: ";
     cin >> n >> m >> start_node;
     
     //n: node,m:edges
     for (int i = 0; i < m; i++) {
     int u, v;
+    cout<<"Enter u,v: ";
     cin >> u >> v;
 
     //u and v: Pair of edges
@@ -62,4 +64,3 @@ int main() {
     
     return 0;
 }
-
